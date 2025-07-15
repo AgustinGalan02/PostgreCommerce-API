@@ -1,12 +1,1 @@
-🛠️ Proyecto: API
-📄 Descripción:
-Este proyecto consiste en una aplicación web con back-end hecho con Spring Boot y una interfaz front-end con HTML, CSS y JavaScript, simulando la administración de una tienda online (básica).
-
-📌 Tecnologías utilizadas
-  ⚙️ Spring Boot – Framework para construir APIs REST de forma rápida.
-  🔐 Spring Security – Para autenticación, autorización y encriptación de contraseñas (BCrypt).
-  📘 Swagger – Documentación y prueba de endpoints.
-  🧪 Postman – Herramienta de testing para los endpoints.
-  🌐 HTML, CSS y JavaScript.
-
-
+PostgreCommerce API: Este proyecto consiste en una aplicación web que simula la administración básica de una tienda online. El back-end está desarrollado con Spring Boot, que permite construir APIs REST de manera rápida y eficiente. Para manejar la seguridad, se utiliza Spring Security, que ofrece funcionalidades de autenticación, autorización y encriptación de contraseñas mediante BCrypt. La documentación y prueba de los endpoints se realiza con Swagger, mientras que Postman se emplea como herramienta para testear dichos endpoints. La interfaz front-end está desarrollada con tecnologías web estándar: HTML, CSS y JavaScript.
