@@ -10,4 +10,3 @@ Este proyecto consiste en una aplicación web con back-end hecho con Spring Boot
   🌐 HTML, CSS y JavaScript.
 
 
-
